@@ -4,4 +4,4 @@ touch awesome_page.md <!--made the file-->
 git add awesome_page.md  <!--staged the change-->
 git commit  <!--committed it-->
 git push origin master  <!--pushed it to the remote-->
-git co -b awesome-feature  <!--made an awesome-feature branch-->
+-- ** `changed this` git co -b awesome-feature  <!--made an awesome-feature branch-->
